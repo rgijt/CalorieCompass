@@ -35,6 +35,9 @@ builder.Services.AddSwaggerGen(options => {
     options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
 });
 
+builder.Services.AddHealthChecks();
+builder.Services.AddControllers();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -44,6 +47,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.MapHealthChecks("/health");
 app.UseHttpsRedirection();
+app.MapControllers();
 
 app.Run();
