@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCompass.Api", "CalorieCompass.Api\CalorieCompass.Api.csproj", "{86DCB7C6-CDE0-4725-933F-7F3540AEA69C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCompass.Api.Contract", "CalorieCompass.Api.Contract\CalorieCompass.Api.Contract.csproj", "{61BD36F9-9E4B-425A-8760-0E4F751323C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCompass.Domain", "CalorieCompass.Domain\CalorieCompass.Domain.csproj", "{2FA2BA2D-56D7-4EC2-8372-A2E4A455B684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCompass.Infrastructure", "CalorieCompass.Infrastructure\CalorieCompass.Infrastructure.csproj", "{22266E48-8293-426F-BB86-D202A7563818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCompass.MongoDb", "CalorieCompass.MongoDb\CalorieCompass.MongoDb.csproj", "{397B3E57-24BB-4C2C-B468-3E397913376D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCompass.MongoDb.Contract", "CalorieCompass.MongoDb.Contract\CalorieCompass.MongoDb.Contract.csproj", "{281D1479-BB70-476B-AD65-8492677CC229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86DCB7C6-CDE0-4725-933F-7F3540AEA69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DCB7C6-CDE0-4725-933F-7F3540AEA69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DCB7C6-CDE0-4725-933F-7F3540AEA69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DCB7C6-CDE0-4725-933F-7F3540AEA69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61BD36F9-9E4B-425A-8760-0E4F751323C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BD36F9-9E4B-425A-8760-0E4F751323C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BD36F9-9E4B-425A-8760-0E4F751323C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BD36F9-9E4B-425A-8760-0E4F751323C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA2BA2D-56D7-4EC2-8372-A2E4A455B684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA2BA2D-56D7-4EC2-8372-A2E4A455B684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA2BA2D-56D7-4EC2-8372-A2E4A455B684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA2BA2D-56D7-4EC2-8372-A2E4A455B684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22266E48-8293-426F-BB86-D202A7563818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22266E48-8293-426F-BB86-D202A7563818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22266E48-8293-426F-BB86-D202A7563818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22266E48-8293-426F-BB86-D202A7563818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397B3E57-24BB-4C2C-B468-3E397913376D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397B3E57-24BB-4C2C-B468-3E397913376D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397B3E57-24BB-4C2C-B468-3E397913376D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397B3E57-24BB-4C2C-B468-3E397913376D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{281D1479-BB70-476B-AD65-8492677CC229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281D1479-BB70-476B-AD65-8492677CC229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281D1479-BB70-476B-AD65-8492677CC229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281D1479-BB70-476B-AD65-8492677CC229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

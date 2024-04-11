@@ -1,0 +1,11 @@
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.MongoDb.Contract\bin\Debug\net8.0\CalorieCompass.MongoDb.Contract.deps.json
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.MongoDb.Contract\bin\Debug\net8.0\CalorieCompass.MongoDb.Contract.dll
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.MongoDb.Contract\bin\Debug\net8.0\CalorieCompass.MongoDb.Contract.pdb
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.MongoDb.Contract\obj\Debug\net8.0\CalorieCompass.MongoDb.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.MongoDb.Contract\obj\Debug\net8.0\CalorieCompass.MongoDb.Contract.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.MongoDb.Contract\obj\Debug\net8.0\CalorieCompass.MongoDb.Contract.AssemblyInfo.cs
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.MongoDb.Contract\obj\Debug\net8.0\CalorieCompass.MongoDb.Contract.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.MongoDb.Contract\obj\Debug\net8.0\CalorieCompass.MongoDb.Contract.dll
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.MongoDb.Contract\obj\Debug\net8.0\refint\CalorieCompass.MongoDb.Contract.dll
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.MongoDb.Contract\obj\Debug\net8.0\CalorieCompass.MongoDb.Contract.pdb
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.MongoDb.Contract\obj\Debug\net8.0\ref\CalorieCompass.MongoDb.Contract.dll

@@ -1,0 +1,11 @@
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.Domain\bin\Debug\net8.0\CalorieCompass.Domain.deps.json
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.Domain\bin\Debug\net8.0\CalorieCompass.Domain.dll
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.Domain\bin\Debug\net8.0\CalorieCompass.Domain.pdb
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.Domain\obj\Debug\net8.0\CalorieCompass.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.Domain\obj\Debug\net8.0\CalorieCompass.Domain.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.Domain\obj\Debug\net8.0\CalorieCompass.Domain.AssemblyInfo.cs
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.Domain\obj\Debug\net8.0\CalorieCompass.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.Domain\obj\Debug\net8.0\CalorieCompass.Domain.dll
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.Domain\obj\Debug\net8.0\refint\CalorieCompass.Domain.dll
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.Domain\obj\Debug\net8.0\CalorieCompass.Domain.pdb
+C:\Users\rober\OneDrive\robert\dev\git\CalorieCompass\CalorieCompass.Domain\obj\Debug\net8.0\ref\CalorieCompass.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4c7WgNxfrRH/F9QXsZbqmxVx0Lw7B0Wz3AISjxoumNU=",
+  "Source": "CalorieCompass.Api",
+  "BasePath": "_content/CalorieCompass.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
