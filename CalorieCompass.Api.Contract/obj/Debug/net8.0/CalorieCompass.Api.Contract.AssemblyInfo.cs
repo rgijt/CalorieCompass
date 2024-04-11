@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalorieCompass.Api.Contract")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b26bf2cf15279723504d0cbc74511950dace6dd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalorieCompass.Api.Contract")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalorieCompass.Api.Contract")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
