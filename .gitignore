@@ -1,6 +1,23 @@
+# .NET Core
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
 *.suo
 *.user
-_ReSharper.*
-bin
-obj
-packages
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nuget.props
+*.lock
