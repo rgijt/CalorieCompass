@@ -2,6 +2,7 @@ using Microsoft.OpenApi.Interfaces;
 using Microsoft.OpenApi.Models;
 using Microsoft.OpenApi.Any;
 using System.Reflection;
+using CalorieCompass.MongoDb;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -37,6 +38,9 @@ builder.Services.AddSwaggerGen(options => {
 
 builder.Services.AddHealthChecks();
 builder.Services.AddControllers();
+
+builder.Services.AddMongoDb(builder.Configuration);
+
 
 var app = builder.Build();
 

@@ -20,6 +20,7 @@
   <ItemGroup>
     <ProjectReference Include="..\CalorieCompass.Api.Contract\CalorieCompass.Api.Contract.csproj" />
     <ProjectReference Include="..\CalorieCompass.Domain\CalorieCompass.Domain.csproj" />
+    <ProjectReference Include="..\CalorieCompass.MongoDb\CalorieCompass.MongoDb.csproj" />
   </ItemGroup>
 
 </Project>
