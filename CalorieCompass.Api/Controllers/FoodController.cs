@@ -11,10 +11,11 @@ namespace CalorieCompass.Api.Controllers;
     public class FoodController : ControllerBase
     {
         private readonly IFoodService _foodService;
+        private readonly IFoodRepository _foodRepository;
 
-        public FoodController(IFoodService foodService)
+        public FoodController(IFoodRepository foodRepository)
         {
-            _foodService = foodService;
+            _foodRepository = foodRepository;
         }
 
         /// <summary>
@@ -32,20 +33,7 @@ namespace CalorieCompass.Api.Controllers;
         [ProducesResponseType(StatusCodes.Status500InternalServerError, Type = typeof(ProblemDetails))]
         public async Task<IActionResult> Get()
         {
-            var result = await _foodService.GetAsync(Guid.NewGuid());
-            
-            // If there's a error inside our result IsFailed will be true.
-            if(result.IsFailed)
-            {
-                // Map error(s) to ProblemDetails
-
-                // Pick right IActionResult return type
-
-                // Return
-            }
-
-            // Map value in result from Domain to Contract model.
-            var response = result.Value.Map();
-            return Ok(response);
+            await _foodRepository.Get();
+            return Ok();
         }
     }

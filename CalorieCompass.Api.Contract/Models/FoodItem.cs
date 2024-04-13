@@ -5,7 +5,7 @@ namespace CalorieCompass.Api.Contract.Models;
 public class FoodItem : IValidatableObject
 {
     [Required]
-    public Guid Id { get; set; }
+    public string Id { get; set; }
 
     [Required]
     public string Name { get; set; }
@@ -26,7 +26,7 @@ public class FoodItem : IValidatableObject
     public double Carb { get; set; }
 
     [Required]
-    public string MeasurementUnit { get; set; } = "metric";
+    public string MeasurementUnit { get; set; } = "Metric";
 
     public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
     {
